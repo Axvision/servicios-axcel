@@ -1,0 +1,37 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #007BFF;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+main {
+  padding: 1em;
+}
+
+.service {
+  background: white;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
